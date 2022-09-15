@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "content": "hello world",
+  "author": {
+    "id": 2,
+    "name": "userA"
+  },
+  "published": true,
+  "label": [],
+  "nextPost": null,
+  "comments": [{
+    "id": 3,
+    "content": "good post1",
+    "author": "userB"
+  },
+    {
+      "id": 4,
+      "content": "good post2",
+      "author": "userC"
+    }
+  ]
+}
